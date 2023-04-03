@@ -1,3 +1,4 @@
+#created by OMETH VIRUSARA
 import tkinter as tk
 from tkinter import Text, ttk
 import webbrowser
