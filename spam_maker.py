@@ -4,7 +4,7 @@ import webbrowser
 
 root = tk.Tk()
 root.title('Spam massage maker')
-root.iconbitmap('./assets/spam_maker.ico')
+root.iconbitmap(#icon location)
 root.geometry('600x400')
 main_msg=tk.Label(text="This software made only for educational purpose!!!")
 main_msg.pack()
